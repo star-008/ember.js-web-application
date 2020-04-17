@@ -1,0 +1,14 @@
+^dist
+syntax: glob
+node_modules
+*~
+*.orig
+.DS_Store
+.server
+**/*.generated.js
+*.swp
+*.swo
+.sass-cache
+assets/styleguide/static
+assets/sass/_sprite.scss
+nightly.log

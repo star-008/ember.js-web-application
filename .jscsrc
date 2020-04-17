@@ -1,0 +1,9 @@
+{
+    "preset": "crockford",
+    "requireVarDeclFirst": false,
+    "requireMultipleVarDecl": false,
+    "disallowDanglingUnderscores": false,
+    "disallowKeywords": [
+        "with"
+    ]
+}
